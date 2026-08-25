@@ -82,12 +82,12 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Zeoy Xu       # 主标题
+title: Ziyang Xu       # 主标题
 
 tagline: a student # 副标题
 
 description: >- # 由 seo meta 和 atom feed 使用
-  Zeoy Xu的个人博客
+  Ziyang Xu的个人博客
 
 # 填入你的网站的协议和域名.
 # 例如，'https://username.github.io'，注意不要以 '/' 结尾。
@@ -96,7 +96,7 @@ url: "https://ziyangxu.github.io"
 author: ZiyangXu # 全名
 
 github:
-  username: ZiyangXu# Github 用户名
+  username: Ziyang-X# Github 用户名
 
 twitter:
   username: # 推特用户名
